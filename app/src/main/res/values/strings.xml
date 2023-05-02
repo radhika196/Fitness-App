@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="drawer_menu_item_title_1">WORKOUTS</string>
+    <string name="drawer_menu_item_title_2">PROGRAMS</string>
+    <string name="drawer_menu_item_title_3">CHALLENGES</string>
+    <string name="drawer_menu_item_title_4">GUIDES</string>
+    <string name="drawer_menu_item_title_5">COLLECTIONS</string>
+    <string name="drawer_menu_item_title_6">COMMUNITY</string>
+    <string name="drawer_menu_item_title_7">DONATE</string>
+    <string name="drawer_menu_header_title">Exercise Everyday!!</string>
+    <string name="drawer_menu_group_2_title">Darebee</string>
+</resources>
